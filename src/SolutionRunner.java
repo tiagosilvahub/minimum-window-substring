@@ -9,7 +9,7 @@ public class SolutionRunner {
     public static void main(String[] args) {
         Solution[] solutions =
             new Solution[]{
-                new SlidingWindow(),
+                new SlidingWindow()
             };
 
         // add test cases
